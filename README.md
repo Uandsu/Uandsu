@@ -4,7 +4,7 @@
  </em></p>
  
 <p align="left">
-  Languages and Skills: <strong>CSS, HTML, JS, React.</strong>
+  Languages and Skills: <strong>CSS, HTML, JS.</strong>
 </p>
 
 
