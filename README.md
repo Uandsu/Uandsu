@@ -1,4 +1,5 @@
 ### Hi, i'm Vands
+<p><em> I'm addicted to volleyball and I love challenges.</a>
 <img align='right' src="https://github.com/uandsu/uandsu/blob/main/ara-anime.gif" width="230">
 <p><em> I am a developer in development.</a>
  </em></p>
@@ -21,7 +22,7 @@
   <a href="https://github.com/uandsu"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uandsu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <!--
-**uandsu/uandus** is a repository because its `README.md` (this file) appears on your GitHub profile.
+**uandsu/uandsu** is a repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
