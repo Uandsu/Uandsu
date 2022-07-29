@@ -4,7 +4,7 @@
  </em></p>
  
 <p align="left">
-  Languages and Skills: <strong>CSS, HTML, JS.</strong>
+  Languages and Skills: <strong>CSS, HTML, JS, Python, Java.</strong>
 </p>
 
 
