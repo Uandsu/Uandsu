@@ -1,6 +1,6 @@
 ### Hi, i'm Vands
 <img align='right' src="https://github.com/uandsu/uandsu/blob/main/ara-anime.gif" width="230">
-<p><em> I am a front-end developer in development.</a>
+<p><em> I am a developer in development.</a>
  </em></p>
  
 <p align="left">
