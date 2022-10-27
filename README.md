@@ -5,7 +5,7 @@
  </em></p>
  
 <p align="left">
-  Languages and Skills: <strong>HTML, Python, JS, Flutter.</strong>
+  Languages and Skills: <strong>HTML, Java, Python, JS, Flutter.</strong>
 </p>
 
 
