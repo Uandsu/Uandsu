@@ -30,7 +30,7 @@ Languages and Skills:
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
- <img src="[https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)" />
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)" />
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
  
  </div>
