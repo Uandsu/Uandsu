@@ -3,7 +3,7 @@
 <div>
 <p><em> I'm addicted to volleyball and I love challenges.</a>
 <img align='right' src="https://github.com/uandsu/uandsu/blob/main/ara-anime.gif" width="230">
-<p><em> I am a developer in development.</a>
+<p><em> I am a data engineer/data analyst and backend developer.</a>
  </em></p>
  
 <p align="left">
